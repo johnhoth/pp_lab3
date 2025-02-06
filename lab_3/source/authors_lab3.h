@@ -1,0 +1,16 @@
+#pragma once
+
+#define AUTHORS_A "Ivan Zharov"
+#define AUTHORS_B "Ivan Zharov"
+#define AUTHORS_C "Ivan Zharov"
+#define AUTHORS_D "Ivan Zharov"
+#define AUTHORS_E "Ivan Zharov"
+#define AUTHORS_F "Ivan Zharov"
+#define AUTHORS_G "Ivan Zharov"
+#define AUTHORS_H "Ivan Zharov"
+#define AUTHORS_I "Ivan Zharov"
+#define AUTHORS_J "Ivan Zharov"
+#define AUTHORS_K "Ivan Zharov"
+#define AUTHORS_L "Ivan Zharov"
+#define AUTHORS_M "Ivan Zharov"
+#define AUTHORS_N "Ivan Zharov"
